@@ -1,26 +1,21 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Navbar from './components/Navbar';
+import Hero from './components/Hero';
+import Footer from './components/Footer';
+import SearchBox from './components/search-box';
+
+import useDarkMode from './store/darkmode';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    const isDarkMode = useDarkMode(state => state.isDarkMode);
+
+    return (
+        <div className={`relative flex flex-col flex-nowrap h-screen items-center ${isDarkMode ? 'dark bg-[#2E3643]' : 'bg-white-100'}`}>
+            <Navbar />
+            <Hero />
+            <Footer />
+            <SearchBox />
+        </div>
+    );
 }
 
 export default App;
