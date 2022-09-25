@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/react-zustand-tailwind-landing-page/static/css/main.f3ebff35.css",
-    "main.js": "/react-zustand-tailwind-landing-page/static/js/main.861828af.js",
-    "static/media/logo-statamic.svg": "/react-zustand-tailwind-landing-page/static/media/logo-statamic.38a0abdd900ca62542a51770c8f0ea52.svg",
-    "static/media/logo-statickit.svg": "/react-zustand-tailwind-landing-page/static/media/logo-statickit.caed384720d43198e038ee0e94ba37c1.svg",
-    "static/media/logo-laravel.svg": "/react-zustand-tailwind-landing-page/static/media/logo-laravel.3aec5731426fc26038377d21ae636f1f.svg",
-    "static/media/logo-transistor.svg": "/react-zustand-tailwind-landing-page/static/media/logo-transistor.43e52c54ee6c4d49ddbccbc1d51104cb.svg",
-    "static/media/logo-mirage.svg": "/react-zustand-tailwind-landing-page/static/media/logo-mirage.0758fe5b51c761d648bddc9efb23108e.svg",
-    "static/media/logo.svg": "/react-zustand-tailwind-landing-page/static/media/logo.a7d805308d066845e2db6804b8aeeadb.svg",
-    "static/media/gmailIcon.svg": "/react-zustand-tailwind-landing-page/static/media/gmailIcon.12f23ecac74219c6091531bd74097dce.svg",
-    "static/media/textUnderscore.svg": "/react-zustand-tailwind-landing-page/static/media/textUnderscore.9f5d441a61897b29b6735b6e62e926ed.svg",
-    "static/media/logo-tuple.svg": "/react-zustand-tailwind-landing-page/static/media/logo-tuple.d761bcb4801f4219c3b65cb1d1269a15.svg",
-    "static/media/googleAssistantIcon.svg": "/react-zustand-tailwind-landing-page/static/media/googleAssistantIcon.f18772615c772ce57b8b528418480367.svg",
-    "static/media/searchIcon.svg": "/react-zustand-tailwind-landing-page/static/media/searchIcon.f1f28a805717b30d0a3cf35350ec4bcb.svg",
-    "index.html": "/react-zustand-tailwind-landing-page/index.html",
-    "static/media/createIcon.svg": "/react-zustand-tailwind-landing-page/static/media/createIcon.e0b94453140f1c22b4a167fd3deb3654.svg",
-    "static/media/watchPlayIcon.svg": "/react-zustand-tailwind-landing-page/static/media/watchPlayIcon.f02af8198bc0426bf8578ad1f8f5c4b3.svg",
-    "static/media/returnIcon.svg": "/react-zustand-tailwind-landing-page/static/media/returnIcon.b49be986d7e91dfe4a60731886afb83e.svg",
-    "static/media/openNewIcon.svg": "/react-zustand-tailwind-landing-page/static/media/openNewIcon.870a1ba20d09d55705ebad7443cdc43d.svg",
-    "main.f3ebff35.css.map": "/react-zustand-tailwind-landing-page/static/css/main.f3ebff35.css.map",
-    "main.861828af.js.map": "/react-zustand-tailwind-landing-page/static/js/main.861828af.js.map"
+    "main.css": "./static/css/main.f3ebff35.css",
+    "main.js": "./static/js/main.66d9e88c.js",
+    "static/media/logo-statamic.svg": "./static/media/logo-statamic.38a0abdd900ca62542a51770c8f0ea52.svg",
+    "static/media/logo-statickit.svg": "./static/media/logo-statickit.caed384720d43198e038ee0e94ba37c1.svg",
+    "static/media/logo-laravel.svg": "./static/media/logo-laravel.3aec5731426fc26038377d21ae636f1f.svg",
+    "static/media/logo-transistor.svg": "./static/media/logo-transistor.43e52c54ee6c4d49ddbccbc1d51104cb.svg",
+    "static/media/logo-mirage.svg": "./static/media/logo-mirage.0758fe5b51c761d648bddc9efb23108e.svg",
+    "static/media/logo.svg": "./static/media/logo.a7d805308d066845e2db6804b8aeeadb.svg",
+    "static/media/gmailIcon.svg": "./static/media/gmailIcon.12f23ecac74219c6091531bd74097dce.svg",
+    "static/media/textUnderscore.svg": "./static/media/textUnderscore.9f5d441a61897b29b6735b6e62e926ed.svg",
+    "static/media/logo-tuple.svg": "./static/media/logo-tuple.d761bcb4801f4219c3b65cb1d1269a15.svg",
+    "static/media/googleAssistantIcon.svg": "./static/media/googleAssistantIcon.f18772615c772ce57b8b528418480367.svg",
+    "static/media/searchIcon.svg": "./static/media/searchIcon.f1f28a805717b30d0a3cf35350ec4bcb.svg",
+    "static/media/createIcon.svg": "./static/media/createIcon.e0b94453140f1c22b4a167fd3deb3654.svg",
+    "static/media/watchPlayIcon.svg": "./static/media/watchPlayIcon.f02af8198bc0426bf8578ad1f8f5c4b3.svg",
+    "index.html": "./index.html",
+    "static/media/returnIcon.svg": "./static/media/returnIcon.b49be986d7e91dfe4a60731886afb83e.svg",
+    "static/media/openNewIcon.svg": "./static/media/openNewIcon.870a1ba20d09d55705ebad7443cdc43d.svg",
+    "main.f3ebff35.css.map": "./static/css/main.f3ebff35.css.map",
+    "main.66d9e88c.js.map": "./static/js/main.66d9e88c.js.map"
   },
   "entrypoints": [
     "static/css/main.f3ebff35.css",
-    "static/js/main.861828af.js"
+    "static/js/main.66d9e88c.js"
   ]
 }
