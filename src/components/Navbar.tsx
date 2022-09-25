@@ -1,6 +1,9 @@
 import { ReactComponent as Logo } from '../images/logo.svg';
 import { ReactComponent as SearchIcon } from '../images/icons/searchIcon.svg';
 
+import darkModeIcon from '../images/icons/darkModeIcon.png';
+import lightModeIcon from '../images/icons/lightModeIcon.png';
+
 import useSearchbar from '../store/searchbar'
 import useDarkMode from '../store/darkmode'
 
@@ -44,7 +47,7 @@ function Navbar() {
 
       {/* theme mode indicator */}
       <button type='button' className='absolute top-0 -right-1.5 h-full flex flex-row items-center' onClick={toggleThemeMode}>
-        <img src={isDarkMode ? "/darkModeIcon.png" : "/lightModeIcon.png"} width="30px" height="30px" alt="" />
+        <img src={isDarkMode ? darkModeIcon : lightModeIcon} width="30px" height="30px" alt="" />
       </button>
     </header>
   );
